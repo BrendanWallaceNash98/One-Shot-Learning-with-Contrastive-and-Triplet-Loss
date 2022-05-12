@@ -8,7 +8,7 @@ Contrastive-Loss Siamese CNN can be found in - Contrative loss final model.ipynb
 
 
 Two convolutional neural siamese networks were built using contrastive loss and triplet loss on the TensorFlow's ominglot data set (a collection of 1623 unique handwritten letters from 50 languages) in an attempt to develop neural networks for one-shot classifiaction for identify if two characters are from the same language or not. Both models where trained on letters from 40 of the 50 langauges and then tested on 10 untrained langauges. 
-results can be found in the report (2021-IFN680-Assignment-Two_Final)
+results can be found in the report(2021-IFN680-Assignment-Two_Final). Models have been reworked since the report so results may vary.
 
 In the report and in the coding part of this assignment we were asked to test are model on the training, test and mix of training and test data. I am aware this is not a resonable practice but it is what was asked of us.
 
